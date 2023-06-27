@@ -27,7 +27,7 @@ Hugo 服务命令行
 Hugo 建站
 部署到服务器 $ hugo deploy 更多信息：
 Hugo 发布
-祝你好运，相信你会喜欢上 Hugo 建站的旅程！</content></entry><entry><title>blog</title><url>/bolg.html</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"><![CDATA[#que hugo 博客构建中使用的git 命令 #ans 先下载你的博客主仓库，方法：https://github.com/hugo-next/hugo-theme-next-starter 然后运行，下载主题仓库：
+祝你好运，相信你会喜欢上 Hugo 建站的旅程！</content></entry><entry><title>手机摄影</title><url>/post/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1.html</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html">废旧的铁路口 云图</content></entry><entry><title>blog</title><url>/bolg.html</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html"><![CDATA[#que hugo 博客构建中使用的git 命令 #ans 先下载你的博客主仓库，方法：https://github.com/hugo-next/hugo-theme-next-starter 然后运行，下载主题仓库：
 # First time git submodule update --init --recursive # Next time git submodule update --remote --merge 但是运行失败了，所有手动下载主题仓库，在themes文件夹下执行：
 git clone git@github.com:hugo-next/hugo-theme-next.git 并修改.gitmodules文件，修改前：
 [submodule &#34;themes/hugo-theme-next&#34;] branch = main path = themes/hugo-theme-next url = https://github.com/hugo-next/hugo-theme-next.git 修改后：
