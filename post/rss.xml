@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on lzw blog</title><link>/post/</link><description>Recent content in Posts on lzw blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 28 Jun 2023 00:04:14 +0800</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml"/><item><title>从零搭建静态博客</title><link>/post/conglingdajianblog.html</link><pubDate>Thu, 01 Jun 2023 19:05:41 +0800</pubDate><guid>/post/conglingdajianblog.html</guid><description>&lt;p>使用hugo+github创建个人静态博客
-博客仓库使用特殊的github仓库例如：&lt;code>99fukong.github.io&lt;/code>&lt;/p></description></item><item><title>七牛云图床添加https证书</title><link>/https.html</link><pubDate>Sun, 04 Jun 2023 23:22:42 +0800</pubDate><guid>/https.html</guid><description>&lt;h2 id="问题我的个人静态博客的图片不显示其他人的图片可以显示">问题：我的个人静态博客的图片不显示，其他人的图片可以显示。&lt;/h2>
-&lt;h2 id="方案为七牛云图床添加https证书">方案：为七牛云图床添加https证书。&lt;/h2></description></item><item><title>般若波罗蜜多心经</title><link>/post/hello.html</link><pubDate>Wed, 31 May 2023 22:12:45 +0800</pubDate><guid>/post/hello.html</guid><description>观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。舍利子，色不异空，空不异色；色即是空，空即是色。受、想、行、识，亦复如是。舍利子，</description></item><item><title>世界，你好！</title><link>/post/hello-world.html</link><pubDate>Thu, 02 Jun 2022 11:52:03 +0800</pubDate><guid>/post/hello-world.html</guid><description>&lt;blockquote>
-&lt;p>“使用 &lt;code>weight&lt;/code> 关键字置顶文章。”&lt;/p>
-&lt;/blockquote>
-&lt;p>
-&lt;a href="https://gohugo.io/" title="Hugo" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
-Hugo
-&lt;i class="fa fa-external-link-alt">&lt;/i>
-&lt;/a> 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。&lt;/p></description></item><item><title>手机摄影</title><link>/post/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1.html</link><pubDate>Wed, 28 Jun 2023 00:04:14 +0800</pubDate><guid>/post/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1.html</guid><description>&lt;h3 id="废旧的铁路口">废旧的铁路口&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on lzw blog</title><link>/post/</link><description>Recent content in Posts on lzw blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 28 Jun 2023 00:04:14 +0800</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml"/><item><title>手机摄影</title><link>/post/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1.html</link><pubDate>Wed, 28 Jun 2023 00:04:14 +0800</pubDate><guid>/post/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1.html</guid><description>&lt;h3 id="废旧的铁路口">废旧的铁路口&lt;/h3>
 &lt;p>&lt;img src="/imgs/img-lazy-loading.gif" data-src="https://fukonglzw.cn/img/202306280010137.jpg" alt="" />
 &lt;img src="/imgs/img-lazy-loading.gif" data-src="https://fukonglzw.cn/img/202306280013237.jpg" alt="" />
 &lt;img src="/imgs/img-lazy-loading.gif" data-src="https://fukonglzw.cn/img/202306280014991.jpg" alt="" />&lt;/p>
 &lt;h3 id="云图">云图&lt;/h3>
 &lt;p>&lt;img src="/imgs/img-lazy-loading.gif" data-src="https://fukonglzw.cn/img/202306280019262.jpg" alt="" />
-&lt;img src="/imgs/img-lazy-loading.gif" data-src="https://fukonglzw.cn/img/202306280023039.jpg" alt="" />&lt;/p></description></item><item><title>没有H1-6标题头和评论的文章</title><link>/post/no-header-title.html</link><pubDate>Thu, 06 Oct 2022 09:02:26 +0800</pubDate><guid>/post/no-header-title.html</guid><description>&lt;p>刘慈欣2018克拉克奖获奖感言（部分内容节选）。&lt;/p>
+&lt;img src="/imgs/img-lazy-loading.gif" data-src="https://fukonglzw.cn/img/202306280023039.jpg" alt="" />&lt;/p></description></item><item><title>从零搭建静态博客</title><link>/post/conglingdajianblog.html</link><pubDate>Thu, 01 Jun 2023 19:05:41 +0800</pubDate><guid>/post/conglingdajianblog.html</guid><description>&lt;p>使用hugo+github创建个人静态博客
+博客仓库使用特殊的github仓库例如：&lt;code>99fukong.github.io&lt;/code>&lt;/p></description></item><item><title>七牛云图床添加https证书</title><link>/https.html</link><pubDate>Sun, 04 Jun 2023 23:22:42 +0800</pubDate><guid>/https.html</guid><description>&lt;h2 id="问题我的个人静态博客的图片不显示其他人的图片可以显示">问题：我的个人静态博客的图片不显示，其他人的图片可以显示。&lt;/h2>
+&lt;h2 id="方案为七牛云图床添加https证书">方案：为七牛云图床添加https证书。&lt;/h2></description></item><item><title>般若波罗蜜多心经</title><link>/post/hello.html</link><pubDate>Wed, 31 May 2023 22:12:45 +0800</pubDate><guid>/post/hello.html</guid><description>观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。舍利子，色不异空，空不异色；色即是空，空即是色。受、想、行、识，亦复如是。舍利子，</description></item><item><title>没有H1-6标题头和评论的文章</title><link>/post/no-header-title.html</link><pubDate>Thu, 06 Oct 2022 09:02:26 +0800</pubDate><guid>/post/no-header-title.html</guid><description>&lt;p>刘慈欣2018克拉克奖获奖感言（部分内容节选）。&lt;/p>
 &lt;blockquote>
 &lt;p>用于测试在没有H1-6标题头时，文章的目录导航是否会直接关闭，并关闭评论功能。&lt;/p>
 &lt;/blockquote></description></item><item><title>Mermaid支持流程图</title><link>/post/mermaid-charts.html</link><pubDate>Sun, 18 Sep 2022 20:58:13 +0800</pubDate><guid>/post/mermaid-charts.html</guid><description>&lt;p>本主题已支持 &lt;code>Mermaid&lt;/code> 实现以纯文本的方式绘制流程图、序列图、甘特图、状态图、关系图行等等，随着 &lt;code>Mermaid&lt;/code> 也在逐步发展，后续还会有各种各样的图被引入进来，更多的类型及使用方式可关注其官方网站：
@@ -40,4 +33,11 @@ Hugo 文档
 网站配置
 &lt;i class="fa fa-external-link-alt">&lt;/i>
 &lt;/a>中设置 &lt;code>enableEmoji&lt;/code> 为 &lt;code>true&lt;/code>，
-然后你就可以直接在文章中输入 emoji 的代码。&lt;/p></description></item><item><title>Markdown 语法支持</title><link>/post/markdown-syntax.html</link><pubDate>Fri, 03 Jun 2022 11:52:18 +0800</pubDate><guid>/post/markdown-syntax.html</guid><description>&lt;p>仅以此篇文章来测试下在 &lt;code>NexT&lt;/code> 主题中在通过 &lt;code>Hugo&lt;/code> 引擎来建站时，是否支持 &lt;code>Markdown&lt;/code> 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p></description></item></channel></rss>
+然后你就可以直接在文章中输入 emoji 的代码。&lt;/p></description></item><item><title>Markdown 语法支持</title><link>/post/markdown-syntax.html</link><pubDate>Fri, 03 Jun 2022 11:52:18 +0800</pubDate><guid>/post/markdown-syntax.html</guid><description>&lt;p>仅以此篇文章来测试下在 &lt;code>NexT&lt;/code> 主题中在通过 &lt;code>Hugo&lt;/code> 引擎来建站时，是否支持 &lt;code>Markdown&lt;/code> 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p></description></item><item><title>世界，你好！</title><link>/post/hello-world.html</link><pubDate>Thu, 02 Jun 2022 11:52:03 +0800</pubDate><guid>/post/hello-world.html</guid><description>&lt;blockquote>
+&lt;p>“使用 &lt;code>weight&lt;/code> 关键字置顶文章。”&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;a href="https://gohugo.io/" title="Hugo" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+Hugo
+&lt;i class="fa fa-external-link-alt">&lt;/i>
+&lt;/a> 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。&lt;/p></description></item></channel></rss>
